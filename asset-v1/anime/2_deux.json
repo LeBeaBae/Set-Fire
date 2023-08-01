@@ -1,0 +1,14 @@
+{
+	"animeName":"empty",
+	"percentageMax":"0.2",
+	"totalFrame":"328",
+	"width":"164",
+	"height":"380",
+	"headHeight":"250",
+	"arrayFrame":[
+		{"prop":"0,380,0,0"},
+		{"prop":"0,380,0,0"},
+		{"prop":"0,380,0,0"},
+		{"prop":"0,380,0,0"}
+	]
+}
