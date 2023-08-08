@@ -1,6 +1,6 @@
 /*the creator of the make it a real mod not chinese or malaysia*/
 var app = new function() {
-    this.name = "Set Fire", this.version = "1", this.date = "2009", this.folder = "asset-v1/", this.looptime = 6600, this.bpm = 80, this.totalframe = 260, this.nbpolo = 7, this.nbloopbonus = 4, this.bonusloopA = !2, this.bonusendloopA = !2, this.recmaxloop = 100, this.recminloop = 10, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#273C7F", this.col0 = "#273C7F", this.col1 = "#273C7F", this.col2 = "#273C7F", this.col3 = "#273C7F", this.col4 = "#273C7F", this.animearray = [{
+    this.name = "Set Fire", this.version = "1", this.date = "2009", this.folder = "asset-v1/", this.looptime = 13248, this.bpm = 145, this.totalframe = 260, this.nbpolo = 7, this.nbloopbonus = 4, this.bonusloopA = !2, this.bonusendloopA = !2, this.recmaxloop = 100, this.recminloop = 10, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#273C7F", this.col0 = "#273C7F", this.col1 = "#273C7F", this.col2 = "#273C7F", this.col3 = "#273C7F", this.col4 = "#273C7F", this.animearray = [{
         name: "1_lead",
         color: "EDCFAD",
         uniqsnd: !1
