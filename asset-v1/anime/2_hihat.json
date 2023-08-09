@@ -1,0 +1,11 @@
+{
+	"animeName":"2_hihat",
+	"percentageMax":"0.2",
+	"totalFrame":"change this into a number",
+	"width":"164",
+	"height":"380",
+	"headHeight":"223",
+	"arrayFrame":[
+		{"prop":"0,380,0,0"}
+	]
+}
